@@ -1,0 +1,85 @@
+{
+    "planets_and_stars": [
+      {
+        "type": "Chthonian_planet",
+        "elements": ["Iron", "Nickel", "Gold", "Platinum", "Magnesium", "Silicon", "Aluminum", "Titanium", "Manganese", "Chromium", "Cobalt", "Copper"]
+      },
+      {
+        "type": "Carbon_planet",
+        "elements": ["Carbon", "Silicon", "Titanium", "Boron"]
+      },
+      {
+        "type": "Coreless_planet",
+        "elements": ["Hydrogen", "Helium", "Neon", "Argon", "Magnesium", "Silicon", "Oxygen", "Carbon"]
+      },
+      {
+        "type": "Desert_planet",
+        "elements": ["Magnesium", "Calcium", "Aluminum", "Silicon", "Oxygen", "Iron"]
+      },
+      {
+        "type": "Gas_dwarf",
+        "elements": ["Hydrogen", "Helium", "Carbon", "Nitrogen", "Oxygen"]
+      },
+      {
+        "type": "Gas_giant",
+        "elements": ["Hydrogen", "Helium", "Methane", "Ammonia", "Carbon_monoxide", "Argon"]
+      },
+      {
+        "type": "Helium_planet",
+        "elements": ["Helium", "Hydrogen", "Neon", "Nitrogen", "Argon"]
+      },
+      {
+        "type": "Hycean_planet",
+        "elements": ["Oxygen", "Magnesium", "Calcium", "Silicon", "Hydrogen", "Nitrogen", "Carbon"]
+      },
+      {
+        "type": "Ice_giant",
+        "elements": ["Hydrogen", "Helium", "Methane", "Ammonia", "Neon", "Carbon_monoxide", "Oxygen"]
+      },
+      {
+        "type": "Ice_planet",
+        "elements": ["Hydrogen", "Oxygen", "Nitrogen"]
+      },
+      {
+        "type": "Iron_planet",
+        "elements": ["Iron", "Nickel", "Gold", "Platinum", "Uranium", "Magnesium", "Hydrogen"]
+      },
+      {
+        "type": "Lava_planet",
+        "elements": ["Silicon", "Magnesium", "Iron", "Calcium", "Aluminum", "Oxygen"]
+      },
+      {
+        "type": "Ocean_planet",
+        "elements": ["Hydrogen", "Oxygen", "Nitrogen", "Carbon"]
+      },
+      {
+        "type": "Protoplanet",
+        "elements": ["Silicon", "Oxygen", "Nickel", "Magnesium", "Calcium", "Iron", "Sulfur"]
+      },
+      {
+        "type": "Terrestrial_planet",
+        "elements": ["Oxygen", "Silicon", "Magnesium", "Nickel", "Calcium", "Aluminum"]
+      },
+      {
+        "type": "Solar-type",
+        "elements": ["Hydrogen", "Helium", "Oxygen", "Carbon", "Neon", "Iron"]
+      },
+      {
+        "type": "Hot_Blue",
+        "elements": ["Hydrogen", "Helium", "Nitrogen", "Oxygen", "Neon", "Magnesium"]
+      },
+      {
+        "type": "Red_Dwarf",
+        "elements": ["Hydrogen", "Helium", "Carbon", "Oxygen", "Neon", "Nitrogen"]
+      },
+      {
+        "type": "Red_Giant",
+        "elements": ["Hydrogen", "Helium", "Carbon", "Oxygen", "Neon", "Nitrogen"]
+      },
+      {
+        "type": "White_Dwarf",
+        "elements": ["Carbon", "Oxygen", "Neon", "Magnesium", "Iron"]
+      }
+    ]
+  }
+  
